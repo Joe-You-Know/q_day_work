@@ -1,0 +1,25 @@
+QDay Submission — Environment & Versions
+
+Generated: 2025-11-08T03:53:26.328637Z
+
+
+# Backend & Runs (from report JSON files)
+
+- run_curve0_1024.json: backend=ibm_torino, job_id=d47bf655mhvc73f7qu0g, shots=1024, curve_index=0, recovered_d=6, verified=True
+- run_curve1_2048.json: backend=ibm_torino, job_id=d478s5vbjc5s73d4k1s0, shots=2048, curve_index=1, recovered_d=18, verified=True
+
+# Python & Packages (fill in from your machine)
+
+python --version
+
+pip show qiskit
+pip show qiskit-aer
+pip show qiskit-ibm-runtime
+
+
+# Example (replace with your actual outputs):
+
+Python 3.12.x
+qiskit 2.x.x
+qiskit-aer 0.x.x
+qiskit-ibm-runtime 0.x.x
