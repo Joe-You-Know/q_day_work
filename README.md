@@ -89,4 +89,4 @@ pip show qiskit qiskit-aer qiskit-ibm-runtime
 
 ## Contact
 Questions: **qdayprize@projecteleven.com**  
-Author contact: <your.email@domain>
+Author contact: <josephfredrickson@live.com>
