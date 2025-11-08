@@ -1,8 +1,8 @@
 # QDay ECC-on-Quantum Demo (Shor-style, ROM oracle)
 
 **Author:** Joseph “Joey” Fredrickson  
-**Email:** <your.email@domain>  
-**Background:** AI content developer, writer/novelist, mechanical engineer (BYU), quantum/computation researcher.  
+**Email:** josephfredrickson@live.com
+**Background:** AI content developer, mechanical engineer, quantum/computation researcher.  
 **Repository purpose:** Demonstrate a verified Shor-style recovery of ECC private keys on **IBM Quantum** hardware using a compact ROM-oracle approach and robust post-processing.
 
 ---
