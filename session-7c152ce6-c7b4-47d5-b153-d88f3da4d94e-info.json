@@ -1,0 +1,32 @@
+{
+  "id": "7c152ce6-c7b4-47d5-b153-d88f3da4d94e",
+  "backend_name": "ibm_torino",
+  "started_at": "2025-11-08T03:31:55.656Z",
+  "activated_at": "2025-11-08T03:31:55.656Z",
+  "closed_at": "2025-11-08T03:34:40.876Z",
+  "last_job_started": "2025-11-08T03:31:55.656Z",
+  "last_job_completed": "2025-11-08T03:34:40.798Z",
+  "interactive_ttl": 1,
+  "max_ttl": 600,
+  "active_ttl": 600,
+  "state": "closed",
+  "state_reason": "session_closed_early",
+  "accepting_jobs": false,
+  "mode": "batch",
+  "user_id": "IBMid-6950018B2I",
+  "timestamps": [
+    {
+      "status": "open",
+      "timestamp": "2025-11-08T03:31:20.69Z"
+    },
+    {
+      "status": "active",
+      "timestamp": "2025-11-08T03:31:55.656Z"
+    },
+    {
+      "status": "closed",
+      "timestamp": "2025-11-08T03:34:40.876Z"
+    }
+  ],
+  "elapsed_time": 82
+}

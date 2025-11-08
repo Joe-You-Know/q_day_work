@@ -1,0 +1,2 @@
+JobId,SessionId,Status,Reason,Created,Usage (seconds),Type,Compute resource,Instance,Tags
+d47bjaq10n3c73bmtesg,7c152ce6-c7b4-47d5-b153-d88f3da4d94e,Completed,,2025-11-08T03:31:55.517374Z,82,sampler,ibm_torino,crn:v1:bluemix:public:quantum-computing:us-east:a/69b5df5b6cea47acafcb22c9488654c2:3dffbbe0-9482-46a7-aea8-ece04a455136::,
