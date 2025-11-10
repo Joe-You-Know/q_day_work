@@ -1,5 +1,5 @@
 # Brief: Shor-Style ECC Demo on IBM Quantum (ROM Oracle)
-**Author:** Joseph “Joey” Fredrickson • **Email:** <your.email@domain> • **Date:** 2025-11-08
+**Author:** Joseph “Joey” Fredrickson • **Email:** josephfredrickson@live.com • **Date:** 2025-11-08
 
 ## 1. Objective
 Demonstrate a verified recovery of an ECC private key on real quantum hardware using a Shor-style pipeline on tiny curves, with a compact oracle and robust post-processing tailored to hardware constraints.
